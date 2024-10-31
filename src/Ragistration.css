@@ -1,0 +1,125 @@
+.foram-wrap{
+    border: 2px solid black;
+    padding: 50px;
+    width: 550px;
+
+}
+.heading{
+    margin-bottom: 20px;
+    /* margin-left: 30px; */
+}
+.firstname{
+    margin-right: 50px;
+    /* margin-left: 35px; */
+}
+.input input{
+    padding: 12px;
+    border: 2px solid gray;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.input2 input{
+    padding: 12px;
+    border: 2px solid gray;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.input3 select{
+    padding: 12px;
+    border: 2px solid rgb(115, 115, 115);
+    font-size: 18px;
+    margin-bottom: 20px;
+    width: 245px;
+}
+.placeh{
+    color: rgb(107, 105, 105);
+}
+hr{
+    border: 1px solid gray;
+}
+.head{
+    font-size: 22px;
+}
+.gender{
+    font-size: 18px;
+    font-weight: 600;
+}
+.space{
+    margin-bottom: 12px;
+}
+.password{
+    padding: 12px;
+    width: 485px;
+    margin-left: 15px;
+    border: 2px solid rgb(115, 115, 115);
+    font-size: 18px;
+
+
+
+}
+.submit{
+    padding: 12px;
+    width: 512px;
+    margin-left: 15px;
+    border: 2px solid rgb(115, 115, 115);
+    font-size: 18px;
+}
+.thead{
+    width: 160px;
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.tbody{
+    width: 160px;
+    height: 28px;
+    background-color: rgb(231, 229, 229);
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    
+}
+.tbody2{
+    width: 160px;
+    height: 28px;
+    background-color: rgb(182, 178, 178);
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.iconcolor{
+    color: red;
+    font-size: 30px;
+}
+.form-serch{
+    text-align: center;
+}
+.searchbar{
+    padding: 12px ;
+    width: 300px;
+    border-radius: 5px;
+    border: 2px solid gray;
+    font-size:18px ;
+}
+.serbtn{
+    padding: 8px 15px;
+    margin-left: 10px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.icon-sort{
+    color: white;
+}
+.sorting {
+    background-color: none;
+    color: white;
+    border: none;
+}
+.edit{
+    color: green;
+}
